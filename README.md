@@ -9,7 +9,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 <p align="center">
-  <img src="images/dashboard-overview.png" alt="Executive Dashboard" width="95%">
+  <img width="1773" height="1038" alt="Screenshot 2026-06-27 162812" src="https://github.com/user-attachments/assets/53333a94-1468-4af0-89e0-4a26fa6a297d" />
 </p>
 
 ---
