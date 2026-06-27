@@ -72,4 +72,4 @@ The solution utilizes an automated data pipeline to clean, engineer, and feed da
 ## 💻 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/MdRidhwan5/PRODIGY_DS_03.git](https://github.com/MdRidhwan5/Banking-Subscription-Predictor.git)
+   git clone [https://github.com/MdRidhwan5/Banking-Subscription-Predictor](https://github.com/MdRidhwan5/Banking-Subscription-Predictor.git)
