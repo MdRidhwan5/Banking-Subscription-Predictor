@@ -99,3 +99,5 @@ The algorithm dynamically routes clients based on optimally reduced entropy, uti
 
 ---
 *Developed by [Mohammed Ridhwan](https://github.com/MdRidhwan5)*
+
+<img width="1463" height="642" alt="Screenshot 2026-06-27 163207" src="https://github.com/user-attachments/assets/d9e3cc22-9de0-4c30-95fc-9d65f5b313c7" />
